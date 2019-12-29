@@ -27,3 +27,6 @@ https://github.com/ankush2805/EIP/blob/master/Assignment5/EpochLogs.txt
 
 Actual code can be found at [code](https://github.com/ankush2805/EIP/blob/master/Assignment5/PersonAttributes_Resnet152V2_IMGAUG_CYCLIC_LR_FINAL.ipynb)
 https://github.com/ankush2805/EIP/blob/master/Assignment5/PersonAttributes_Resnet152V2_IMGAUG_CYCLIC_LR_FINAL.ipynb
+
+
+<h1>Thanks Rohan for teaching</h1>
